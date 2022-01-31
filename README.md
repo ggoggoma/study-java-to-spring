@@ -1,1 +1,1 @@
-# studyjava-orgainzeconcept-java
+# 강의내용 정리 및 복습용 코드
